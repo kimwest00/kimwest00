@@ -8,4 +8,4 @@
 
 - 🌱 I’m currently learning Android - Kotlin | Flutter
 
-![Snake animation](https://github.com/kimwest00/kimwest00/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/kimwest00/kimwest00/blob/output/github-contribution-grid-snake.svg)
