@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Android - Kotlin | Flutter
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/Biellms/Biellms/blob/output/github-contribution-grid-snake.svg)
