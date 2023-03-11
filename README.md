@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-- 🏢 22-2 ~ UMC 3th Android part member 
-- 🏢 20-2 ~ School major Academy TAB
+- 🏢 22-12 ~ 23-03 LiveWith Team Flutter Developer
+- 🏢 22-09  UMC 3th Android part member 
+- 🏢 20-09 ~ School major Academy TAB
 - 🏢 21-22 GDSC(Google Developer Students Club) HUFS 3th CORE member
 
 ![kimwest's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwest00&show_icons=true&theme=radical)
