@@ -1,6 +1,6 @@
 ### Hi there 👋
+- 🏢 22-09 ~ ing  UMC 3,4th Android part member 
 - 🏢 22-12 ~ 23-03 LiveWith Team Flutter Developer
-- 🏢 22-09  UMC 3th Android part member 
 - 🏢 20-09 ~ School major Academy TAB
 - 🏢 21-22 GDSC(Google Developer Students Club) HUFS 3th CORE member
 
