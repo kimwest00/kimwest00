@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🏢 22-12 ~ @Wiiee Flutter Developer Internship
 - 🏢 22-09 ~ ing  UMC 3,4th Android part member 
 - 🏢 22-12 ~ 23-03 LiveWith Team Flutter Developer
 - 🏢 20-09 ~ School major Academy TAB
