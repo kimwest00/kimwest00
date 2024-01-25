@@ -6,7 +6,8 @@
 
 ![kimwest's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwest00&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning Android - Kotlin | Flutter
+- 🌱 I’m currently develop Flutter Application | Android - Kotlin
+- 
 
 ![Snake animation](https://github.com/kimwest00/kimwest00/blob/output/github-contribution-grid-snake.svg)
 
